@@ -36,6 +36,7 @@ Bem-vindo ao meu  GitHub! Sou alguém que está começando a entrar no mundo da 
   <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
 ### Controle de Versao
@@ -50,7 +51,6 @@ Bem-vindo ao meu  GitHub! Sou alguém que está começando a entrar no mundo da 
 <div style="display: inline-block; margin-bottom: 25px;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
 # Em desenvolvimento
