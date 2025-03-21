@@ -10,7 +10,7 @@ Bem-vindo ao meu  GitHub! Sou alguém que está começando a entrar no mundo da 
 
 
 ## Um pouco sobre mim
-- 🎓 Estou aprendendo **Java** e estudando **Programação Orientada a Objetos (POO)**, além de explorar como usar **MySQL** e **JDBC** em projetos.
+- 🎓 Estou aprendendo **Java** e estudando **Programação Orientada a Objetos (POO)**, além de explorar como usar **Banco de Dados** e **Frameworks (SpringBoot)** em projetos.
 - 🛠️ Gosto de aprender criando projetos práticos que me ajudam a entender e aplicar o que estou estudando.
 - 📚 Tenho um grande interesse por boas práticas de programação e estou sempre procurando aprender algo novo para melhorar a qualidade dos meus códigos.
 - 🎯 Meu objetivo é evoluir constantemente, não estou satisfeito e não vou estar enquanto houver mais conhecimento a ser adquirido.
