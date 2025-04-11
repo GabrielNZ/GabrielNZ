@@ -38,6 +38,8 @@ Bem-vindo ao meu  GitHub! Sou alguém que está começando a entrar no mundo da 
   <img align="center" alt="html5" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens">
 </div>
 
 ### Controle de Versao
