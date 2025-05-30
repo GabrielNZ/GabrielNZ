@@ -55,6 +55,7 @@ Bem-vindo ao meu  GitHub! Sou alguém que está começando a entrar no mundo da 
 <div style="display: inline-block; margin-bottom: 25px;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 # Em desenvolvimento
