@@ -43,6 +43,12 @@ Bem-vindo ao meu  GitHub! Sou alguém que está começando a entrar no mundo da 
   <img align="center" alt="html5" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
 </div>
 
+### Front-end
+
+<div style="display: inline-block; margin-bottom: 25px;">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</div>
+
 ### Controle de Versao
 
 <div style="display: inline-block; margin-bottom: 25px;">
