@@ -1,32 +1,31 @@
-### Ola! Eu sou o Gabriel Nicolodi Zimmermann 👋🚀
-
+### Hello! I’m Gabriel Nicolodi Zimmermann 👋🚀
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielnzimmermann@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.n.zimmermann/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547997774199)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-n-zimmermann-aba618338/)
 
 
-Bem-vindo ao meu  GitHub! Sou alguém que está começando a entrar no mundo da programação, com muita vontade de aprender e crescer. Atualmente, meu foco está em dominar Java e explorar e dominar o mundo do back-end, sempre buscando novos desafios para expandir meu conhecimento
+Welcome to my GitHub! I’m someone who is starting to dive into the programming world, with a great desire to learn and grow. Currently, my focus is on mastering Java and exploring the backend world, always seeking new challenges to expand my knowledge.
 
 
-## Um pouco sobre mim
-- 🎓 Estou aprendendo **Java** e estudando **Programação Orientada a Objetos (POO)**, além de explorar como usar **Banco de Dados** e **Frameworks (SpringBoot)** em projetos.
-- 🎓 Estou aprendendo **JavaScript**, **HTML** e **CSS**, além de explorar como usar essas ferramentas para criação de projetos e sites reais. ( Futuramente com **Frameworks** Front-end )
-- 🛠️ Gosto de aprender criando projetos práticos que me ajudam a entender e aplicar o que estou estudando.
-- 📚 Tenho um grande interesse por boas práticas de programação e estou sempre procurando aprender algo novo para melhorar a qualidade dos meus códigos.
-- 🎯 Meu objetivo é evoluir constantemente, não estou satisfeito e não vou estar enquanto houver mais conhecimento a ser adquirido.
+## A little about me
+- 🎓 I’m learning Java and studying **Object-Oriented Programming (OOP)**, as well as exploring how to use **Databases** and **Frameworks (SpringBoot)** in projects.
+- 🎓 I’m learning **JavaScript, HTML**, and **CSS,** while exploring how to use these tools to create real projects and websites (and later with **Frontend Frameworks**).
+- 🛠️ I like to learn by building practical projects that help me understand and apply what I’m studying.
+- 📚 I have a strong interest in programming best practices and I’m always looking to learn something new to improve the quality of my code.
+- 🎯 My goal is to constantly evolve, I’m not satisfied and won’t be as long as there is more knowledge to acquire.
 
 
-## Tecnologias 
+## Technologies 
 
-### Linguagens de Programacao
+### Programming Languages
 
 <div style="display: inline-block; margin-bottom: 25px;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-### Banco de Dados
+### Databases
 
 <div style="display: inline-block; margin-bottom: 25px;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -53,24 +52,25 @@ Bem-vindo ao meu  GitHub! Sou alguém que está começando a entrar no mundo da 
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-### Controle de Versao
+### Version Control
 
 <div style="display: inline-block; margin-bottom: 25px;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-### IDEs & Ferramentas
+### IDEs & Tools
 
 <div style="display: inline-block; margin-bottom: 25px;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
-# Em desenvolvimento
+# In development
 
-### Linguagens de Programacao
+### Programming Languages
 
 <div style="display: inline-block; margin-bottom: 25px;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
