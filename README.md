@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m someone who is starting to dive into the programming
 
 
 ## A little about me
-- 🎓 I’m learning Java and studying **Object-Oriented Programming (OOP)**, as well as exploring how to use **Databases** and **Frameworks (SpringBoot)** in projects.
+- 🎓 I’m learning Java and studying how to use **Databases** and **Frameworks (SpringBoot)** in projects.
 - 🎓 I’m learning **JavaScript, HTML**, and **CSS,** while exploring how to use these tools to create real projects and websites (and later with **Frontend Frameworks**).
 - 🛠️ I like to learn by building practical projects that help me understand and apply what I’m studying.
 - 📚 I have a strong interest in programming best practices and I’m always looking to learn something new to improve the quality of my code.
