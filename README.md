@@ -5,16 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-n-zimmermann-aba618338/)
 
 
-Welcome to my GitHub! I’m someone who is starting to dive into the programming world, with a great desire to learn and grow. Currently, my focus is on mastering Java and exploring the backend world, always seeking new challenges to expand my knowledge.
-
-
-## A little about me
-- 🎓 I’m learning Java and studying how to use **Databases** and **Frameworks (SpringBoot)** in projects.
-- 🎓 I’m learning **JavaScript, HTML**, and **CSS,** while exploring how to use these tools to create real projects and websites (and later with **Frontend Frameworks**).
-- 🛠️ I like to learn by building practical projects that help me understand and apply what I’m studying.
-- 📚 I have a strong interest in programming best practices and I’m always looking to learn something new to improve the quality of my code.
-- 🎯 My goal is to constantly evolve, I’m not satisfied and won’t be as long as there is more knowledge to acquire.
-
+Welcome to my GitHub! I’m someone who loves to dives into the programming world, with a great desire to learn and grow. Currently, my focus is on mastering the backend world, always seeking new challenges to expand my knowledge. ✨☺️
 
 ## Technologies 
 
