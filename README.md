@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-n-zimmermann-aba618338/)
 
 
-Welcome to my GitHub! I’m someone who loves to dives into the programming world, with a great desire to learn and grow. Currently, my focus is on mastering the backend world, always seeking new challenges to expand my knowledge. ✨☺️
+Welcome to my GitHub! I’m someone who loves to dives into the programming world, with a great desire to learn and grow. Currently, my focus is on mastering the backend area, always seeking new challenges to expand my knowledge. ✨☺️
 
 ## Technologies 
 
