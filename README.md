@@ -7,7 +7,7 @@
 
 Welcome to my GitHub! I’m someone who loves to dives into the programming world, with a great desire to learn and grow. Currently, my focus is on mastering the backend area, always seeking new challenges to expand my knowledge. ✨☺️
 
-## Technologies 
+## 🛠 Technologies 
 
 ### Programming Languages
 
