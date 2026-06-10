@@ -23,6 +23,7 @@ Welcome to my GitHub! I’m someone who loves to dives into the programming worl
   <img align="center" alt="html5" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
 ### Front-end
