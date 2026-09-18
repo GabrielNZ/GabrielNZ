@@ -70,6 +70,7 @@ Welcome to my GitHub! I’m someone who loves to dives into the programming worl
   <img align="center" alt="html5" src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Insomnia-%23000.svg?style=for-the-badge&logo=insomnia&logoColor=5849BE">
 </div>
 
 
