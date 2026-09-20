@@ -53,7 +53,6 @@ Welcome to my GitHub! I’m someone who loves to dives into the programming worl
 <div style="display: inline-block; margin-bottom: 25px;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
 
 ### Version Control
